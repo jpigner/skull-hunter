@@ -1,0 +1,61 @@
+
+player_enemies.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bluehorn
+  rotate: false
+  xy: 1, 11
+  size: 96, 16
+  orig: 96, 16
+  offset: 0, 0
+  index: -1
+player
+  rotate: false
+  xy: 99, 11
+  size: 95, 16
+  orig: 95, 16
+  offset: 0, 0
+  index: -1
+skullred
+  rotate: false
+  xy: 196, 11
+  size: 95, 16
+  orig: 95, 16
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 1, 1
+  size: 48, 8
+  orig: 48, 8
+  offset: 0, 0
+  index: -1
+door
+  rotate: false
+  xy: 293, 11
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+fireball
+  rotate: false
+  xy: 327, 11
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+key
+  rotate: false
+  xy: 361, 11
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+skull
+  rotate: false
+  xy: 379, 11
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

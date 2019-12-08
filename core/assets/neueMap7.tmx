@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="2018.07.13" orientation="orthogonal" renderorder="right-down" width="20" height="100" tilewidth="16" tileheight="16" infinite="0" nextlayerid="16" nextobjectid="185">
+ <tileset firstgid="1" source="simples_pimples.tsx"/>
+</map>
